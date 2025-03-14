@@ -1,1 +1,3 @@
 I love coding and Coding is fun
+
+I code in Python, Javascript, Typescript and C
